@@ -1,0 +1,1244 @@
+MASTER FEATURE CATALOG
+Competitive Exam Preparation & EdTech Operating System
+Version: 1.0
+Date: 15 November 2026
+Scope: Complete product functionality, system architecture, workflows and implementation requirements.
+
+This is the consolidated master list for building an education ecosystem combining the strongest publicly observable capabilities of Physics Wallah, ALLEN, Aakash, Unacademy, Infinity Learn, BYJU'S, Vedantu, Embibe, Filo, Testbook, Adda247 and other education platforms.
+
+The scope covers both a single education platform and a multi-institution SaaS ecosystem.
+PART 1 — PLATFORMS TO REVERSE ENGINEER
+1. Primary platforms
+#	Platform	Primary research focus
+1	Physics Wallah	Courses, batches, DPP, Khazana, AI, tests
+2	ALLEN	Test engine, practice, improvement books
+3	Aakash	iTutor, academic planning, tests
+4	Unacademy	Educators, live classes, subscriptions
+5	Infinity Learn	AINA, adaptive learning, personalization
+6	BYJU'S	Visual learning, adaptive learning
+7	Vedantu	Interactive classrooms, quizzes
+8	Embibe	AI analytics, knowledge tracing
+9	Filo	Instant one-to-one tutoring
+10	Testbook	Mock tests, PYQs, government exams
+11	Adda247	Daily quizzes, current affairs
+12	Oliveboard	Mock tests, exam analytics
+
+
+2. Secondary platforms
+#	Platform	Research focus
+13	Doubtnut	Image-based doubt solving
+14	NTA Abhyas	CBT examination simulation
+15	SATHEE	Free education, AI assistance
+16	Drishti IAS	UPSC learning ecosystem
+17	Khan Global Studies	Government examination preparation
+18	Physics Galaxy	Conceptual learning and question banks
+19	Careerwill	Government examination courses
+20	PW Pi	Unified learning, AI practice, daily quizzes
+
+
+This is the research universe, not a claim that every product is currently operational or that every historical feature remains available.
+PART 2 — COMPLETE MASTER FUNCTIONALITY LIST
+The following is the proposed product requirements inventory.
+MODULE 01. Authentication & Identity Management
+1. Mobile registration.
+2. OTP verification.
+3. Email registration.
+4. Google login.
+5. Apple login.
+6. Password authentication.
+7. Password recovery.
+8. Multi-factor authentication.
+9. Student profile.
+10. Profile photograph.
+11. Student identification number.
+12. Academic history.
+13. Target examination selection.
+14. Class selection.
+15. Preferred language.
+16. Learning preferences.
+17. Device management.
+18. Active session management.
+19. Login history.
+20. Account security.
+21. Account deletion.
+22. Parent account linking.
+23. Multiple student profiles.
+24. Student account recovery.
+25. Privacy preferences.
+MODULE 02. Examination & Academic Configuration
+1. Examination categories.
+2. Examination management.
+3. Examination eligibility.
+4. Examination syllabus.
+5. Subject management.
+6. Chapter management.
+7. Topic management.
+8. Subtopic management.
+9. Syllabus hierarchy.
+10. Examination patterns.
+11. Marking schemes.
+12. Negative marking configuration.
+13. Examination duration.
+14. Section configuration.
+15. Language configuration.
+16. Examination calendar.
+17. Registration deadlines.
+18. Official notification tracking.
+19. Examination history.
+20. Previous-year syllabus versions.
+MODULE 03. Course Marketplace
+1. Course catalogue.
+2. Course search.
+3. Advanced filters.
+4. Course categories.
+5. Course recommendations.
+6. Course comparison.
+7. Course descriptions.
+8. Course previews.
+9. Educator profiles.
+10. Course ratings.
+11. Student reviews.
+12. Course pricing.
+13. Course discounts.
+14. Free courses.
+15. Scholarship courses.
+16. Featured courses.
+17. Trending courses.
+18. Recently added courses.
+19. Course bundles.
+20. Course subscriptions.
+21. Course wishlists.
+22. Shopping cart.
+23. Checkout.
+24. Coupon application.
+25. Referral discounts.
+26. Scholarship discounts.
+27. Payment gateway integration.
+28. UPI payments.
+29. Card payments.
+30. Net banking.
+31. EMI support.
+32. Payment receipts.
+33. Tax invoices.
+34. Transaction history.
+35. Failed payment recovery.
+36. Refund management.
+37. Subscription renewal.
+38. Subscription cancellation.
+MODULE 04. Purchased Course Management
+1. My courses.
+2. Purchased course listing.
+3. Course enrollment.
+4. Course activation.
+5. Course access permissions.
+6. Course validity.
+7. Course expiry.
+8. Course renewal.
+9. Course completion percentage.
+10. Course progress.
+11. Upcoming classes.
+12. Missed classes.
+13. Pending assignments.
+14. Upcoming tests.
+15. Course announcements.
+16. Course resources.
+17. Course-specific notifications.
+18. Course-specific discussion.
+19. Course-specific mentorship.
+20. Enrollment history.
+21. Course transfer policies.
+22. Access revocation.
+23. Multiple simultaneous enrollments.
+24. Course access history.
+MODULE 05. Learning Management System
+1. Learning dashboard.
+2. Subject dashboard.
+3. Chapter dashboard.
+4. Topic dashboard.
+5. Lecture management.
+6. Recorded lectures.
+7. Live lectures.
+8. Lecture playlists.
+9. Chapter completion.
+10. Topic completion.
+11. Learning progress.
+12. Lecture bookmarking.
+13. Personal notes.
+14. Timestamped notes.
+15. Video resume.
+16. Playback history.
+17. Playback speed.
+18. Video quality.
+19. Full-screen mode.
+20. Picture-in-picture.
+21. Subtitle support.
+22. Language selection.
+23. Offline downloads.
+24. Offline progress synchronization.
+25. Lecture completion tracking.
+26. Lecture recommendations.
+27. Revision lectures.
+28. Special classes.
+29. Content expiry.
+30. Authorized device restrictions.
+MODULE 06. Study Material & Digital Library
+1. PDF notes.
+2. Digital textbooks.
+3. Handwritten notes.
+4. Revision notes.
+5. Formula sheets.
+6. Mind maps.
+7. Chapter summaries.
+8. NCERT solutions.
+9. Previous-year papers.
+10. Solved examples.
+11. Practice worksheets.
+12. Reference books.
+13. Question collections.
+14. Audio learning resources.
+15. Image-based resources.
+16. Download management.
+17. Personal library.
+18. Saved materials.
+19. Recently accessed materials.
+20. Material search.
+21. Material version management.
+22. Content access permissions.
+23. Document annotation.
+24. PDF highlighting.
+25. Document bookmarking.
+MODULE 07. Live Classroom System
+1. Live class scheduling.
+2. Live class joining.
+3. Live video streaming.
+4. Live audio.
+5. Interactive whiteboard.
+6. Screen sharing.
+7. Presentation sharing.
+8. Teacher annotations.
+9. Student chat.
+10. Ask questions.
+11. Raise hand.
+12. Live polls.
+13. Live quizzes.
+14. Classroom attendance.
+15. Student participation tracking.
+16. Teacher moderation.
+17. Chat moderation.
+18. Student muting.
+19. Recording.
+20. Class replay.
+21. Class notes.
+22. Downloadable resources.
+23. Live class reminders.
+24. Network reconnection.
+25. Class feedback.
+26. Report technical problems.
+27. Class discussion.
+28. Guest educator access.
+29. Multiple teachers.
+30. Classroom analytics.
+MODULE 08. Daily Quiz Engine
+1. Quiz of the day.
+2. Daily subject quizzes.
+3. Topic quizzes.
+4. Chapter quizzes.
+5. Weekly quizzes.
+6. Monthly quizzes.
+7. Surprise quizzes.
+8. Speed quizzes.
+9. Accuracy quizzes.
+10. Revision quizzes.
+11. PYQ quizzes.
+12. Live classroom quizzes.
+13. Adaptive quizzes.
+14. Custom quizzes.
+15. Difficulty selection.
+16. Question timer.
+17. Quiz timer.
+18. Negative marking.
+19. Instant results.
+20. Delayed results.
+21. Answer explanations.
+22. Video solutions.
+23. Quiz history.
+24. Quiz streaks.
+25. Quiz leaderboards.
+26. Quiz recommendations.
+27. Quiz performance analytics.
+28. Question bookmarking.
+29. Quiz resumption.
+30. Quiz review.
+MODULE 09. Question Bank Management
+1. Single-correct MCQ.
+2. Multiple-correct MCQ.
+3. Numerical questions.
+4. Integer questions.
+5. Assertion-reason questions.
+6. Match-the-following questions.
+7. Fill-in-the-blanks.
+8. True/false.
+9. Passage-based questions.
+10. Diagram-based questions.
+11. Image-based questions.
+12. Audio-based questions.
+13. Subjective questions.
+14. Descriptive questions.
+15. Case-study questions.
+16. Question difficulty.
+17. Question tagging.
+18. Topic mapping.
+19. Chapter mapping.
+20. Subject mapping.
+21. Examination mapping.
+22. Question explanations.
+23. Video solutions.
+24. Question versioning.
+25. Question approval.
+26. Duplicate detection.
+27. Question reporting.
+28. Question quality checks.
+29. Question randomization.
+30. Question bank search.
+MODULE 10. Practice & Improvement Engine
+1. Custom practice tests.
+2. Chapter practice.
+3. Topic practice.
+4. Subject practice.
+5. Difficulty-based practice.
+6. PYQ practice.
+7. Weak-topic practice.
+8. Incorrect-question practice.
+9. Unattempted-question practice.
+10. Repeated-mistake practice.
+11. Speed improvement practice.
+12. Accuracy improvement practice.
+13. Timed practice.
+14. Untimed practice.
+15. Adaptive practice.
+16. AI-generated practice.
+17. Personalized question sets.
+18. Practice history.
+19. Practice analytics.
+20. Improvement Book.
+21. Mistake Book.
+22. Saved questions.
+23. Question revisit.
+24. Topic mastery tracking.
+MODULE 11. Examination & Test Series Engine
+1. Full-length examinations.
+2. Mock examinations.
+3. Sectional examinations.
+4. Chapter examinations.
+5. Topic examinations.
+6. Weekly tests.
+7. Monthly tests.
+8. Grand tests.
+9. Scholarship tests.
+10. All India Test Series.
+11. Previous-year examinations.
+12. CBT simulation.
+13. Adaptive examinations.
+14. Custom examinations.
+15. Practice examinations.
+16. Proctored examinations.
+17. Examination scheduling.
+18. Examination registration.
+19. Examination instructions.
+20. Question navigation.
+21. Section navigation.
+22. Question palette.
+23. Mark for review.
+24. Save and next.
+25. Autosave answers.
+26. Auto-submit.
+27. Manual submission.
+28. Resume interrupted tests.
+29. Timer synchronization.
+30. Examination reports.
+MODULE 12. Test Analytics & Performance Intelligence
+1. Total marks.
+2. Percentage.
+3. Accuracy.
+4. Attempted questions.
+5. Correct questions.
+6. Incorrect questions.
+7. Unattempted questions.
+8. Subject-wise performance.
+9. Chapter-wise performance.
+10. Topic-wise performance.
+11. Difficulty-wise performance.
+12. Time per question.
+13. Average question time.
+14. Speed analysis.
+15. Historical score comparison.
+16. Rank calculation.
+17. Percentile calculation.
+18. Peer comparison.
+19. Leaderboards.
+20. Predicted score.
+21. Predicted rank.
+22. Performance trends.
+23. Weak-topic identification.
+24. Strength identification.
+25. Improvement recommendations.
+26. Test history.
+27. Performance heatmaps.
+28. Accuracy trends.
+29. Score progression.
+30. Detailed answer review.
+MODULE 13. AI Tutor & AI Mentor
+1. Text-based AI assistant.
+2. Image-based question solving.
+3. Handwritten question recognition.
+4. PDF question extraction.
+5. Voice-based questions.
+6. Step-by-step solutions.
+7. Concept explanations.
+8. Simple explanations.
+9. Advanced explanations.
+10. Hindi explanations.
+11. English explanations.
+12. Multilingual assistance.
+13. Chapter summaries.
+14. Revision notes generation.
+15. Flashcard generation.
+16. Quiz generation.
+17. Similar question generation.
+18. Practice exercise generation.
+19. Test analysis.
+20. Study plan generation.
+21. Learning recommendations.
+22. Weakness detection.
+23. Concept gap detection.
+24. Personalized revision.
+25. AI answer evaluation.
+26. AI doubt resolution.
+27. AI lecture summarization.
+28. AI lecture question generation.
+29. Context-aware follow-up questions.
+30. Student-specific learning memory.
+MODULE 14. Doubt Resolution & Tutor Marketplace
+1. Submit a doubt.
+2. Image upload.
+3. PDF upload.
+4. Text-based doubt.
+5. Voice-based doubt.
+6. Video-based doubt.
+7. AI-assisted doubt solving.
+8. Instant tutor matching.
+9. Subject-specific tutors.
+10. Tutor profiles.
+11. Tutor qualifications.
+12. Tutor availability.
+13. Tutor ratings.
+14. Tutor reviews.
+15. Audio calls.
+16. Video calls.
+17. Chat sessions.
+18. Whiteboard collaboration.
+19. Session history.
+20. Doubt status.
+21. Doubt escalation.
+22. Expert faculty escalation.
+23. Tutor feedback.
+24. Resolution tracking.
+25. Tutor payment management.
+MODULE 15. Assignments & Homework
+1. Create assignments.
+2. Schedule assignments.
+3. Chapter assignments.
+4. Topic assignments.
+5. Daily practice assignments.
+6. Weekly assignments.
+7. PDF submission.
+8. Image submission.
+9. Text submission.
+10. Online answer submission.
+11. Submission deadlines.
+12. Late submissions.
+13. Automatic evaluation.
+14. Manual evaluation.
+15. Teacher grading.
+16. Assignment feedback.
+17. Assignment corrections.
+18. Resubmission.
+19. Assignment history.
+20. Assignment analytics.
+21. Pending assignment tracking.
+22. Assignment reminders.
+MODULE 16. Study Planner & Timetable
+1. Daily timetable.
+2. Weekly timetable.
+3. Monthly timetable.
+4. Examination countdown.
+5. Subject allocation.
+6. Chapter allocation.
+7. Topic allocation.
+8. Revision scheduling.
+9. Assignment scheduling.
+10. Test scheduling.
+11. Live class scheduling.
+12. Study-hour targets.
+13. Time blocking.
+14. Break scheduling.
+15. Missed-task recovery.
+16. Personalized study plans.
+17. AI study planner.
+18. Study plan adjustments.
+19. Study plan history.
+20. Calendar integration.
+21. Study session tracking.
+22. Productivity reports.
+MODULE 17. Notification & Reminder Engine
+1. Live class reminders.
+2. Daily quiz reminders.
+3. Assignment reminders.
+4. Test reminders.
+5. Revision reminders.
+6. Course expiry reminders.
+7. Course renewal reminders.
+8. Missed lecture reminders.
+9. Missed assignment reminders.
+10. Study streak reminders.
+11. Examination countdown alerts.
+12. Test result notifications.
+13. Teacher announcements.
+14. Mentor reminders.
+15. Payment notifications.
+16. Scholarship notifications.
+17. Course launch notifications.
+18. Personalized notifications.
+19. Push notifications.
+20. Email notifications.
+21. SMS notifications.
+22. WhatsApp notifications.
+23. Notification preferences.
+24. Quiet hours.
+25. Notification history.
+26. Delivery tracking.
+27. Retry mechanisms.
+28. Notification prioritization.
+MODULE 18. Flashcards & Spaced Repetition
+1. Create flashcards.
+2. AI-generated flashcards.
+3. Formula flashcards.
+4. Definition flashcards.
+5. Image flashcards.
+6. Question-answer flashcards.
+7. Personal flashcards.
+8. Shared flashcards.
+9. Flashcard collections.
+10. Subject collections.
+11. Chapter collections.
+12. Daily revision.
+13. Spaced repetition.
+14. Adaptive review intervals.
+15. Difficult-card identification.
+16. Mastery tracking.
+17. Revision reminders.
+18. Revision history.
+19. Flashcard analytics.
+20. Recall accuracy.
+MODULE 19. Mentorship & Academic Counselling
+1. Assign mentors.
+2. Mentor profiles.
+3. Mentor scheduling.
+4. One-to-one sessions.
+5. Group mentoring.
+6. Academic counselling.
+7. Performance discussions.
+8. Study strategy.
+9. Examination strategy.
+10. Career guidance.
+11. Weakness discussions.
+12. Goal setting.
+13. Progress reviews.
+14. Mentor feedback.
+15. Mentor reports.
+16. Escalation.
+17. Mentorship history.
+18. Mentor notifications.
+MODULE 20. Parent Dashboard
+1. Parent registration.
+2. Student linking.
+3. Multiple children.
+4. Academic progress.
+5. Course completion.
+6. Attendance.
+7. Study hours.
+8. Test scores.
+9. Subject performance.
+10. Weak chapters.
+11. Upcoming examinations.
+12. Pending assignments.
+13. Course validity.
+14. Teacher feedback.
+15. Mentor feedback.
+16. Payment history.
+17. Notifications.
+18. Monthly reports.
+19. Academic alerts.
+20. Parent-teacher communication.
+21. Privacy and access controls.
+MODULE 21. Gamification & Student Engagement
+1. Learning points.
+2. Daily streaks.
+3. Weekly streaks.
+4. Monthly streaks.
+5. Achievement badges.
+6. Milestones.
+7. Learning levels.
+8. Student rankings.
+9. Daily leaderboards.
+10. Weekly leaderboards.
+11. Monthly leaderboards.
+12. Subject leaderboards.
+13. Quiz competitions.
+14. Study challenges.
+15. Learning goals.
+16. Reward systems.
+17. Certificates.
+18. Referral rewards.
+19. Achievement history.
+20. Engagement analytics.
+MODULE 22. Community & Social Learning
+1. Student communities.
+2. Subject communities.
+3. Chapter discussions.
+4. Doubt discussions.
+5. Discussion forums.
+6. Question sharing.
+7. Answer sharing.
+8. Peer explanations.
+9. Study groups.
+10. Group challenges.
+11. Group study sessions.
+12. Student messaging.
+13. Teacher announcements.
+14. Moderation.
+15. Reporting.
+16. Community guidelines.
+17. Community search.
+18. Community notifications.
+MODULE 23. Offline Learning & Synchronization
+1. Download lectures.
+2. Download notes.
+3. Download PDFs.
+4. Download study materials.
+5. Offline quizzes.
+6. Offline flashcards.
+7. Offline bookmarks.
+8. Offline notes.
+9. Offline progress tracking.
+10. Synchronization.
+11. Conflict resolution.
+12. Download expiry.
+13. Storage management.
+14. Download quality selection.
+15. Device authorization.
+16. Secure content storage.
+MODULE 24. Scholarships & Competitions
+1. Scholarship examination registration.
+2. Scholarship examination.
+3. Eligibility verification.
+4. Scholarship test scheduling.
+5. Scholarship results.
+6. Merit lists.
+7. Rank calculation.
+8. Scholarship awards.
+9. Discount application.
+10. Scholarship history.
+11. Certificates.
+12. Competition registration.
+13. Competition leaderboards.
+14. Competition notifications.
+MODULE 25. Teacher & Educator Management
+1. Teacher registration.
+2. Teacher profiles.
+3. Qualification management.
+4. Subject assignment.
+5. Course assignment.
+6. Batch assignment.
+7. Class scheduling.
+8. Lecture uploads.
+9. Recorded class management.
+10. Live class management.
+11. Notes uploads.
+12. Question creation.
+13. Test creation.
+14. Assignment creation.
+15. Student attendance.
+16. Student performance.
+17. Doubt resolution.
+18. Student feedback.
+19. Class analytics.
+20. Teaching analytics.
+21. Teacher availability.
+22. Teacher remuneration.
+23. Teacher permissions.
+24. Teacher performance reports.
+MODULE 26. Batch & Classroom Management
+1. Create batches.
+2. Edit batches.
+3. Archive batches.
+4. Batch enrollment.
+5. Batch capacity.
+6. Batch schedules.
+7. Batch teachers.
+8. Batch subjects.
+9. Batch announcements.
+10. Batch attendance.
+11. Batch examinations.
+12. Batch assignments.
+13. Batch discussions.
+14. Batch performance.
+15. Batch rankings.
+16. Batch reports.
+17. Batch transfers.
+18. Batch validity.
+MODULE 27. Admin Control Panel
+1. User management.
+2. Student management.
+3. Parent management.
+4. Teacher management.
+5. Mentor management.
+6. Administrator management.
+7. Course management.
+8. Batch management.
+9. Content management.
+10. Question bank management.
+11. Test management.
+12. Assignment management.
+13. Enrollment management.
+14. Payment management.
+15. Refund management.
+16. Coupon management.
+17. Subscription management.
+18. Notification management.
+19. Scholarship management.
+20. Support management.
+21. Analytics dashboard.
+22. Revenue dashboard.
+23. User activity monitoring.
+24. Content approval.
+25. Role management.
+26. Permission management.
+27. Audit logs.
+28. Platform configuration.
+29. Feature flags.
+30. System health monitoring.
+MODULE 28. Customer Support & Helpdesk
+1. Help centre.
+2. FAQ management.
+3. Support tickets.
+4. Ticket categorization.
+5. Ticket prioritization.
+6. Ticket assignment.
+7. Ticket escalation.
+8. Ticket messaging.
+9. Ticket attachments.
+10. Refund requests.
+11. Payment complaints.
+12. Course access complaints.
+13. Technical complaints.
+14. Login assistance.
+15. Chat support.
+16. AI support assistant.
+17. Resolution tracking.
+18. Customer satisfaction ratings.
+19. Support analytics.
+MODULE 29. Finance & Subscription Management
+1. Course payments.
+2. Subscription payments.
+3. Recurring billing.
+4. Payment verification.
+5. Transaction records.
+6. Refund processing.
+7. Partial refunds.
+8. Coupon management.
+9. Promotional pricing.
+10. Tax calculation.
+11. Invoice generation.
+12. Revenue reports.
+13. Sales reports.
+14. Subscription analytics.
+15. Payment reconciliation.
+16. Failed payment handling.
+17. Payment reminders.
+18. Subscription upgrades.
+19. Subscription downgrades.
+20. Subscription cancellation.
+MODULE 30. Search & Recommendation Engine
+1. Global search.
+2. Course search.
+3. Educator search.
+4. Lecture search.
+5. Material search.
+6. Question search.
+7. Chapter search.
+8. Topic search.
+9. Test search.
+10. Search filters.
+11. Search history.
+12. Recent searches.
+13. Personalized recommendations.
+14. Similar course recommendations.
+15. Related lecture recommendations.
+16. Recommended practice questions.
+17. Recommended revision materials.
+18. Search autocomplete.
+19. Multilingual search.
+20. Semantic search.
+MODULE 31. Content Management System
+1. Content creation.
+2. Content editing.
+3. Content publishing.
+4. Content scheduling.
+5. Content approval.
+6. Content versioning.
+7. Video uploads.
+8. Document uploads.
+9. Audio uploads.
+10. Image uploads.
+11. Content categorization.
+12. Content tagging.
+13. Content ownership.
+14. Content access permissions.
+15. Content expiry.
+16. Content archival.
+17. Content moderation.
+18. Content analytics.
+19. Content distribution.
+20. Content quality assurance.
+MODULE 32. Institutional & Multi-Tenant Management
+This is essential if the platform is going to serve multiple coaching organizations.
+1. Institution registration.
+2. Institution verification.
+3. Institution profiles.
+4. Institution branding.
+5. Custom domains.
+6. White-label applications.
+7. Institution-specific courses.
+8. Institution-specific batches.
+9. Institution-specific teachers.
+10. Institution-specific students.
+11. Institution-specific administrators.
+12. Tenant isolation.
+13. Tenant-level permissions.
+14. Tenant-specific pricing.
+15. Tenant-specific subscriptions.
+16. Tenant-specific reports.
+17. Tenant-specific notifications.
+18. Tenant-specific integrations.
+19. Institution billing.
+20. Institution analytics.
+21. Organization hierarchy.
+22. Branch management.
+23. Franchise management.
+24. Cross-branch reporting.
+MODULE 33. Analytics & Business Intelligence
+1. Student acquisition analytics.
+2. Student retention analytics.
+3. Course enrollment analytics.
+4. Course completion analytics.
+5. Lecture engagement analytics.
+6. Teacher performance analytics.
+7. Test participation analytics.
+8. Examination analytics.
+9. Subject performance analytics.
+10. Topic mastery analytics.
+11. Student engagement analytics.
+12. Learning time analytics.
+13. Revenue analytics.
+14. Subscription analytics.
+15. Refund analytics.
+16. Institution analytics.
+17. Branch analytics.
+18. Cohort analysis.
+19. Funnel analysis.
+20. Custom reports.
+21. Scheduled reports.
+22. Exportable reports.
+23. Predictive analytics.
+24. Anomaly detection.
+MODULE 34. Security, Privacy & Compliance
+1. Authentication security.
+2. Role-based access control.
+3. Permission-based access control.
+4. Multi-factor authentication.
+5. Session security.
+6. Device authorization.
+7. API authentication.
+8. API rate limiting.
+9. Data encryption.
+10. Secure file storage.
+11. Payment security.
+12. Audit trails.
+13. Suspicious activity detection.
+14. Data backup.
+15. Disaster recovery.
+16. Data retention policies.
+17. Data deletion workflows.
+18. Consent management.
+19. Parent/guardian consent workflows where applicable.
+20. Privacy controls.
+21. Content access authorization.
+22. Exam integrity controls.
+23. Security monitoring.
+24. Incident management.
+25. DPDP Act compliance requirements.
+26. Applicable child-data protection requirements.
+MODULE 35. Platform Infrastructure & DevOps
+1. API gateway.
+2. Backend services.
+3. Database management.
+4. Database replication.
+5. Database backups.
+6. Redis caching.
+7. Message queues.
+8. Event-driven processing.
+9. Background jobs.
+10. Video processing.
+11. Video transcoding.
+12. CDN integration.
+13. Object storage.
+14. Search infrastructure.
+15. Real-time communication.
+16. Application monitoring.
+17. Error tracking.
+18. Performance monitoring.
+19. Log aggregation.
+20. Automated deployment.
+21. CI/CD pipelines.
+22. Horizontal scaling.
+23. Load balancing.
+24. Disaster recovery.
+25. Infrastructure monitoring.
+26. Cost monitoring.
+27. Service health checks.
+28. Automated testing.
+29. Database migrations.
+30. Feature flags.
+PART 3 — COMPLETE APPLICATION ECOSYSTEM
+We should not create just one application.
+
+The final system should contain these interfaces.
+Application	Primary users
+Student Web Application	Students
+Student Android Application	Students
+Student iOS Application	Students
+Teacher Dashboard	Educators
+Teacher Mobile Application	Educators
+Parent Portal	Parents
+Mentor Dashboard	Mentors
+Tutor Dashboard	Doubt-solving tutors
+Institution Admin Dashboard	Coaching institutes
+Super Admin Dashboard	Platform administrators
+Support Dashboard	Customer support
+Content Management Portal	Content teams
+Finance Dashboard	Finance teams
+Analytics Dashboard	Management
+
+
+PART 4 — TECHNICAL ARCHITECTURE
+1. Recommended technology stack
+Component	Recommended technology
+Web frontend	Next.js
+Mobile frontend	React Native
+Backend	Python FastAPI
+API documentation	OpenAPI
+Primary database	PostgreSQL
+Cache	Redis
+Search engine	OpenSearch
+Vector search	Qdrant / pgvector
+Background processing	Celery
+Event streaming	Kafka / Redpanda
+Live classroom	LiveKit
+Video processing	FFmpeg
+Video delivery	HLS + CDN
+Object storage	S3-compatible storage
+Authentication	Keycloak
+AI orchestration	LangGraph
+Monitoring	Prometheus
+Dashboards	Grafana
+Error tracking	Sentry
+Deployment	Docker
+Orchestration	Kubernetes when scale requires it
+
+
+2. Backend service architecture
+The logical service boundaries should be:
+1. Identity Service.
+2. User Profile Service.
+3. Academic Configuration Service.
+4. Institution Service.
+5. Course Service.
+6. Enrollment Service.
+7. Commerce Service.
+8. Payment Service.
+9. Subscription Service.
+10. Content Service.
+11. Video Service.
+12. Learning Progress Service.
+13. Classroom Service.
+14. Question Bank Service.
+15. Quiz Service.
+16. Examination Service.
+17. Assessment Service.
+18. Analytics Service.
+19. AI Tutor Service.
+20. AI Mentor Service.
+21. Recommendation Service.
+22. Doubt Resolution Service.
+23. Tutor Marketplace Service.
+24. Assignment Service.
+25. Study Planner Service.
+26. Notification Service.
+27. Revision Service.
+28. Flashcard Service.
+29. Mentorship Service.
+30. Parent Service.
+31. Gamification Service.
+32. Community Service.
+33. Search Service.
+34. Support Service.
+35. Reporting Service.
+36. Audit Service.
+These are logical boundaries. They do not all need separate deployments initially.
+3. Database domain structure
+Database domain	Main entities
+Identity	users, profiles, sessions, devices
+Institution	organizations, tenants, branches
+Academic	exams, subjects, chapters, topics
+Courses	courses, batches, enrollments
+Commerce	orders, payments, refunds, coupons
+Content	lectures, videos, documents, notes
+Learning	progress, bookmarks, watch history
+Questions	questions, options, explanations
+Assessment	tests, sections, attempts, responses
+Assignments	assignments, submissions, grades
+Revision	flashcards, review schedules
+Doubts	doubts, responses, tutor sessions
+Mentorship	mentors, sessions, assignments
+Notifications	notifications, preferences, delivery logs
+Gamification	points, badges, achievements
+Analytics	student metrics, topic mastery
+Parents	parent-student relationships
+Support	tickets, messages, resolutions
+Administration	roles, permissions, audit logs
+
+
+PART 5 — COMPLETE STUDENT WORKFLOW
+This is how everything connects.
+                    REGISTRATION
+                         |
+                         v
+                  STUDENT ONBOARDING
+                         |
+                         v
+                 SELECT TARGET EXAM
+                         |
+                         v
+                 COMPLETE PROFILE
+                         |
+                         v
+                  COURSE DISCOVERY
+                         |
+                         v
+                    PURCHASE
+                         |
+                         v
+                  COURSE ENROLLMENT
+                         |
+                         v
+                  STUDENT DASHBOARD
+                         |
+           +-------------+-------------+
+           |             |             |
+           v             v             v
+        CLASSES        QUIZZES       MATERIALS
+           |             |             |
+           +-------------+-------------+
+                         |
+                         v
+                   DAILY PRACTICE
+                         |
+                         v
+                    ASSIGNMENTS
+                         |
+                         v
+                   MOCK TESTS
+                         |
+                         v
+                 PERFORMANCE REPORT
+                         |
+                         v
+                  WEAKNESS ANALYSIS
+                         |
+                         v
+                  AI STUDY PLAN
+                         |
+                         v
+                    REVISION
+                         |
+                         v
+                 NEXT ASSESSMENT
+                         |
+                         v
+                PROGRESS IMPROVEMENT
+
+Every interaction should produce a measurable learning event.
+
+For example:
+- Lecture started.
+- Lecture completed.
+- Question attempted.
+- Answer submitted.
+- Quiz completed.
+- Assignment submitted.
+- Revision completed.
+- Doubt resolved.
+These events feed the student's learning profile and analytics engine.
+PART 6 — IMPLEMENTATION PRIORITY
+I recommend the following development sequence.
+Phase	Components	Priority
+1	Authentication, identity, academic configuration	P0
+2	Institution and course management	P0
+3	Course marketplace and payments	P0
+4	Purchased courses and LMS	P0
+5	Content and video infrastructure	P0
+6	Question bank and quiz engine	P0
+7	Examination engine and test series	P0
+8	Student analytics	P0
+9	Teacher and admin dashboards	P0
+10	Notifications and study planner	P1
+11	Assignments and revision engine	P1
+12	AI tutor and doubt solving	P1
+13	Live classrooms	P1
+14	Parent and mentor portals	P1
+15	Community and gamification	P2
+16	Advanced adaptive learning	P2
+17	Predictive analytics	P2
+18	Advanced institutional SaaS	P2
+
+
+P0 = Core product.
+P1 = Essential expansion.
+P2 = Advanced capabilities.
+PART 7 — FINAL RESEARCH DOCUMENTATION STRUCTURE
+The following is the documentation repository I recommend maintaining throughout the project.
+EDTECH_INTELLIGENCE/
+│
+├── 01_PLATFORM_RESEARCH/
+│   ├── PHYSICS_WALLAH.md
+│   ├── ALLEN.md
+│   ├── AAKASH.md
+│   ├── UNACADEMY.md
+│   ├── INFINITY_LEARN.md
+│   ├── BYJUS.md
+│   ├── VEDANTU.md
+│   ├── EMBIBE.md
+│   ├── FILO.md
+│   ├── TESTBOOK.md
+│   ├── ADDA247.md
+│   ├── OLIVEBOARD.md
+│   ├── DOUBTNUT.md
+│   └── NTA_ABHYAS.md
+│
+├── 02_COMPETITIVE_ANALYSIS/
+│   ├── FEATURE_COMPARISON.md
+│   ├── STUDENT_EXPERIENCE.md
+│   ├── COURSE_COMPARISON.md
+│   ├── ASSESSMENT_COMPARISON.md
+│   ├── AI_FEATURE_COMPARISON.md
+│   └── PRODUCT_GAPS.md
+│
+├── 03_MASTER_FEATURE_CATALOG/
+│   ├── 35_MODULES.md
+│   ├── STUDENT_FEATURES.md
+│   ├── TEACHER_FEATURES.md
+│   ├── ADMIN_FEATURES.md
+│   ├── PARENT_FEATURES.md
+│   ├── AI_FEATURES.md
+│   └── FEATURE_TRACEABILITY.md
+│
+├── 04_PRODUCT_REQUIREMENTS/
+│   ├── STUDENT_PRD.md
+│   ├── TEACHER_PRD.md
+│   ├── ADMIN_PRD.md
+│   ├── PARENT_PRD.md
+│   ├── MENTOR_PRD.md
+│   └── INSTITUTION_PRD.md
+│
+├── 05_SYSTEM_ARCHITECTURE/
+│   ├── HIGH_LEVEL_ARCHITECTURE.md
+│   ├── BACKEND_ARCHITECTURE.md
+│   ├── FRONTEND_ARCHITECTURE.md
+│   ├── DATABASE_ARCHITECTURE.md
+│   ├── AI_ARCHITECTURE.md
+│   ├── VIDEO_ARCHITECTURE.md
+│   └── SECURITY_ARCHITECTURE.md
+│
+├── 06_DATABASE/
+│   ├── ER_DIAGRAM.md
+│   ├── SCHEMA.sql
+│   ├── INDEXING_STRATEGY.md
+│   └── DATA_DICTIONARY.md
+│
+├── 07_API_DOCUMENTATION/
+│   ├── AUTH_APIS.md
+│   ├── COURSE_APIS.md
+│   ├── LEARNING_APIS.md
+│   ├── TEST_APIS.md
+│   ├── PAYMENT_APIS.md
+│   └── OPENAPI.yaml
+│
+├── 08_WORKFLOWS/
+│   ├── STUDENT_WORKFLOW.md
+│   ├── COURSE_PURCHASE.md
+│   ├── DAILY_LEARNING.md
+│   ├── EXAMINATION_WORKFLOW.md
+│   ├── DOUBT_RESOLUTION.md
+│   └── NOTIFICATION_WORKFLOW.md
+│
+├── 09_TESTING/
+│   ├── UNIT_TESTS.md
+│   ├── INTEGRATION_TESTS.md
+│   ├── E2E_TESTS.md
+│   ├── LOAD_TESTS.md
+│   └── SECURITY_TESTS.md
+│
+└── 10_IMPLEMENTATION/
+    ├── DEVELOPMENT_ROADMAP.md
+    ├── SPRINT_PLAN.md
+    ├── DEPLOYMENT_PLAN.md
+    ├── COST_ESTIMATION.md
+    └── RELEASE_PLAN.md
+
+Final scope
+Deliverable	Scope
+Platforms to investigate	20
+Functional modules	35
+Application interfaces	14
+Logical backend service boundaries	36
+Development phases	18
+Research/documentation directories	10
+
+
+Important: These are planning and architecture counts, not verified counts of features implemented by the competitors. The 35 modules constitute our proposed master product scope. Each platform's individual functionality must still be verified through detailed research.
+Final architectural recommendation
+Build a Multi-Institution Adaptive Learning & Examination Operating System.
+
+It should combine:
+1. A complete student learning ecosystem.
+2. A course marketplace.
+3. A sophisticated examination engine.
+4. An AI-powered academic mentor.
+5. A teacher and educator operating system.
+6. An institutional management system.
+7. A parent monitoring ecosystem.
+8. A unified analytics and intelligence engine.
+The biggest differentiator should be the integration between all eight systems: every class, quiz, test, assignment, revision session and learning interaction should contribute to a continuously improving student learning profile.
+
+That is the product we should engineer.

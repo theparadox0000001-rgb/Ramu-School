@@ -1,0 +1,8 @@
+{
+  "name": "Ramu School",
+  "description": "Production-grade competitive exam preparation and EdTech operating system featuring Student, Teacher, Parent, and Super Admin portals, Live Classrooms, CYOT CBT Test Engine, Course Marketplace, AINA AI Mentor, SCORE Analytics, and SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
